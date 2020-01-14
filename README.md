@@ -1,4 +1,4 @@
-# LOBOTSR
+# lobotsr
  Blocks for LOBOT speech recognition module
 ## License
 
